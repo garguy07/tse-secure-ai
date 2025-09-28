@@ -1,1 +1,1 @@
-# tse-secure-ai
+# tse-assignment-1
